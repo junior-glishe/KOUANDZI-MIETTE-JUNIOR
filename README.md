@@ -1,5 +1,12 @@
 # KOUANDZI-MIETTE-JUNIOR
 
+ Développeur Fullstack Web & Mobile passionné par la conception et le développement d’applications modernes, performantes et évolutives. Je conçois des solutions complètes en maîtrisant l’ensemble du cycle de développement, de la création d’interfaces intuitives au développement backend, en passant par la conception et la gestion de bases de données fiables et optimisées.
+
+ J’utilise des technologies telles que **React, Laravel, Django et Flutter** pour développer des applications web et mobiles robustes, avec une attention particulière portée à la qualité du code, aux performances, à la sécurité et à l’expérience utilisateur.
+
+ Mon approche repose sur la création de solutions bien architecturées, incluant des interfaces modernes et responsives, des APIs performantes, des architectures maintenables ainsi que des bases de données correctement structurées afin de répondre efficacement aux besoins des utilisateurs et des entreprises.
+
+
 ##  Langages
 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
