@@ -1,10 +1,13 @@
 # KOUANDZI-MIETTE-JUNIOR
 
- Développeur Fullstack Web & Mobile passionné par la conception et le développement d’applications modernes, performantes et évolutives. Je conçois des solutions complètes en maîtrisant l’ensemble du cycle de développement, de la création d’interfaces intuitives au développement backend, en passant par la conception et la gestion de bases de données fiables et optimisées.
+ **Développeur Fullstack Web & Mobile spécialisé dans la conception et le développement de solutions logicielles modernes, performantes et évolutives.** J’interviens sur l’ensemble du cycle de développement, de l’analyse des besoins à la conception de l’architecture, en passant par le développement des interfaces, la logique métier, les services applicatifs et la gestion des données.
 
- J’utilise des technologies telles que **React, Laravel, Django et Flutter** pour développer des applications web et mobiles robustes, avec une attention particulière portée à la qualité du code, aux performances, à la sécurité et à l’expérience utilisateur.
+ Je conçois des applications robustes en mettant l’accent sur la qualité du code, la maintenabilité, la sécurité, l’optimisation des performances et la fiabilité des systèmes développés.
 
- Mon approche repose sur la création de solutions bien architecturées, incluant des interfaces modernes et responsives, des APIs performantes, des architectures maintenables ainsi que des bases de données correctement structurées afin de répondre efficacement aux besoins des utilisateurs et des entreprises.
+ Mon approche repose sur la création de solutions bien structurées, intégrant des architectures propres, des interfaces intuitives et responsives, des services performants ainsi que des modèles de données cohérents permettant de répondre efficacement aux besoins fonctionnels et métiers.
+
+ Passionné par l’ingénierie logicielle et la sécurité informatique, je cherche constamment à améliorer mes pratiques de développement afin de construire des applications fiables, évolutives et adaptées aux enjeux numériques actuels.
+
 
 
 ##  Langages
@@ -61,10 +64,6 @@
  LinkedIn : [Mon-profil](https://www.linkedin.com/in/junior-kouandzi-miette-3a67ab36b/)  
  Email : kouandzijunior1@gmail.com
 
- <h2 align="center"> GitHub Statistics</h2>
 
-##  Statistiques GitHub
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junior-glishe&show_icons=true&theme=tokyonight&hide_border=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-glishe&layout=compact&theme=tokyonight&hide_border=true)
