@@ -45,3 +45,26 @@
 
 ![Français](https://img.shields.io/badge/Français-Natif-0055A4?style=for-the-badge)
 ![Anglais](https://img.shields.io/badge/English-Intermédiaire-007ACC?style=for-the-badge)
+
+##  Projets réalisés
+
+-  Plateforme de gestion hospitalière
+-  Administration Base de données 
+-  Système de gestion académique
+-  Applications e-commerce
+-  Applications mobiles Flutter
+-  Sites web modernes et responsives
+
+  ##  Contact
+
+ Portfolio : kouandzi-miette-junior-portofolui.vercel.app  
+ LinkedIn : [Mon-profil](https://www.linkedin.com/in/junior-kouandzi-miette-3a67ab36b/)  
+ Email : kouandzijunior1@gmail.com
+
+ <h2 align="center"> GitHub Statistics</h2>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=junior-glishe&show_icons=true&theme=tokyonight&hide_border=true" />
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-glishe&layout=compact&theme=tokyonight&hide_border=true" />
+</p>
