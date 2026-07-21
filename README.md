@@ -63,8 +63,8 @@
 
  <h2 align="center"> GitHub Statistics</h2>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=junior-glishe&show_icons=true&theme=tokyonight&hide_border=true" />
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=junior-glishe&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+##  Statistiques GitHub
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=junior-glishe&show_icons=true&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=junior-glishe&layout=compact&theme=tokyonight&hide_border=true)
