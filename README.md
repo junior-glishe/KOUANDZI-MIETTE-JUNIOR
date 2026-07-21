@@ -1,4 +1,4 @@
-# KOUANDZI-MIETTE-JUNIOR
+# KOUANDZI MIETTE JUNIOR
 
  **Développeur Fullstack Web & Mobile spécialisé dans la conception et le développement de solutions logicielles modernes, performantes et évolutives.** J’interviens sur l’ensemble du cycle de développement, de l’analyse des besoins à la conception de l’architecture, en passant par le développement des interfaces, la logique métier, les services applicatifs et la gestion des données.
 
@@ -60,7 +60,7 @@
 
   ##  Contact
 
- Portfolio : kouandzi-miette-junior-portofolui.vercel.app  
+ Portfolio : kouandzi-miette-junior-portofolio.vercel.app  
  LinkedIn : [Mon-profil](https://www.linkedin.com/in/junior-kouandzi-miette-3a67ab36b/)  
  Email : kouandzijunior1@gmail.com
 
